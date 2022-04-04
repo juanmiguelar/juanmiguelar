@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **backend development**
 
-- 📫 How to reach me **juanmiguelar09@gmail.com**
+- 📫 How to reach me **[here](https://linkr.bio/juanmiguelar)**
 
 - ⚡ Fun fact **I am vegan**
 
