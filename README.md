@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmiguelar&label=Profile%20views&color=0e75b6&style=flat" alt="juanmiguelar" /> </p>
 
-- 🔭 I’m currently working on **my own golang portfolio**
-
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **golang projects**
 
-- 📝 I regularly write articles on [https://dev.to/juanmiguelar](https://dev.to/juanmiguelar)
-
 - 💬 Ask me about **backend development**
 
-- 📫 How to reach me **[here](https://linkr.bio/juanmiguelar)**
+- 📫 How to reach me **https://x.com/iamjuandev**
 
 - ⚡ Fun fact **I am vegan**
 
