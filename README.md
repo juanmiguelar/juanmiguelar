@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://x.com/iamjuandev**
 
-- ⚡ Fun fact **I am vegan**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
